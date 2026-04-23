@@ -61,35 +61,35 @@ npm start
 ```
 
 ## 📊 Key Projects Showcased
-🔹 Sorting Visualizer – Demonstrates multiple sorting algorithms with real-time animations
-🔹 DSA Implementations – Efficient solutions to core data structure problems
-🔹 Other Projects – Add your best 2–3 projects here
+- 🔹 Sorting Visualizer – Demonstrates multiple sorting algorithms with real-time animations
+- 🔹 DSA Implementations – Efficient solutions to core data structure problems
+- 🔹 Other Projects – Add your best 2–3 projects here
 
 ---
 
 
 ## 📈 What This Portfolio Demonstrates
-Strong understanding of frontend development fundamentals
-Ability to combine static and dynamic rendering approaches
-Clean component-based architecture using React
-Focus on UI/UX and responsive design principles
+- Strong understanding of frontend development fundamentals
+- Ability to combine static and dynamic rendering approaches
+- Clean component-based architecture using React
+- Focus on UI/UX and responsive design principles
 
 ---
 
 ## 🚧 Future Enhancements
-🌙 Dark mode support
-🎞️ Advanced animations (e.g., Framer Motion)
-🌐 Backend integration for contact form
-📊 Project filtering and search functionality
+- 🌙 Dark mode support
+- 🎞️ Advanced animations (e.g., Framer Motion)
+- 🌐 Backend integration for contact form
+- 📊 Project filtering and search functionality
 
 ---
 
 ## 📬 Contact
-📧 Email: your-email@example.com
-💼 LinkedIn: https://linkedin.com/in/your-profile
-💻 GitHub: https://github.com/your-username
+- 📧 Email: arohiiiyadav10@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/arohi-yadav-449b87262
+- 💻 GitHub: https://github.com/Arohi_yadav1008
 
 ---
 
 ## 📄 License
-This project is licensed under the MIT License.
+- This project is licensed under the MIT License.
