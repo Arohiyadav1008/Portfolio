@@ -18,27 +18,27 @@ A modern, responsive **developer portfolio** built using a hybrid approach of **
 
 ## 🛠️ Tech Stack
 
-| Category        | Technologies Used |
-|----------------|------------------|
-| **Frontend**   | HTML5, CSS3, JavaScript |
-| **Framework**  | React |
-| **Styling**    | CSS / Tailwind |
-| **Tools**      | Git, GitHub |
+- | Category        | Technologies Used |
+- |----------------|------------------|
+- | **Frontend**   | HTML5, CSS3, JavaScript |
+- | **Framework**  | React |
+- | **Styling**    | CSS / Tailwind |
+- | **Tools**      | Git, GitHub |
 
 ---
 
 ## 📂 Project Architecture
 
-portfolio/
-│── public/ # Static assets
-│── src/ # React application
-│ ├── components/ # Reusable UI components
-│ ├── pages/ # Page-level structure
-│ ├── assets/ # Images, icons
-│ │── App.js
-│── static/ # Standalone HTML/CSS pages
-│── package.json
-│── README.md
+- portfolio/
+- │── public/ # Static assets
+- │── src/ # React application
+- │ ├── components/ # Reusable UI components
+- │ ├── pages/ # Page-level structure
+- │ ├── assets/ # Images, icons
+- │ │── App.js
+- │── static/ # Standalone HTML/CSS pages
+- │── package.json
+- │── README.md
 
 ---
 
