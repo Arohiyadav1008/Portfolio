@@ -104,7 +104,7 @@
 //                     </div>
 
 //                     <div className="flex gap-2">
-//                         <a href="https://order-mu-eight.vercel.app/" target="_blank" rel="noopener noreferrer"
+//                         <a href="https://rolematchstudio.netlify.app/" target="_blank" rel="noopener noreferrer"
 //                            className="w-10 h-10 flex items-center justify-center bg-slate-800 border border-slate-700 rounded-xl mb-4 text-white hover:border-blue-500 hover:rotate-5 hover:scale-110 transition-all duration-300">
 //                             <ExternalLink className='w-4 h-4' />
 //                             </a>
@@ -115,9 +115,9 @@
 
 //                     </div>
 
-//                     <h3 className='text-white text-xl mb-3 group-hover:bg-gradient-to-r group-hover:from-blue-400 group-hover:to-purple-400 group-hover:bg-clip-text group-hover:text-transparent transition-all duration-500 '>Online Ordering Web Application</h3>
+//                     <h3 className='text-white text-xl mb-3 group-hover:bg-gradient-to-r group-hover:from-blue-400 group-hover:to-purple-400 group-hover:bg-clip-text group-hover:text-transparent transition-all duration-500 '>RoleMatchStudio - Career Recommendation System</h3>
 
-//                     <p className='text-slate-400 mb-6 leading-relaxed tracking-wider text-left'>Developed scalable frontend using React.js and reusable components. Implemented dynamic UI rendering and smooth navigation with a focus on performance optimization and responsive design.</p>
+//                     <p className='text-slate-400 mb-6 leading-relaxed tracking-wider text-left'>Developed a web-based career guidance platform that recommends suitable career paths based on users’ skills, interests, and personality traits.</p>
 
 //                     <div className='flex flex-wrap gap-2'>
 
@@ -132,58 +132,7 @@
 //                 </div>
 //             </motion.div>
 
-//             {/* grid-2 */}
 
-//             <motion.div variants={slideRight} className="relative group">
-
-//                 {/* glow */}
-
-//                 <div className="absolute inset-0.5 bg-gradient-to-r from-purple-500 to-pink-500 rounded-2xl blur opacity-0 group-hover:opacity-75 transition-opacity duration-500"></div>
-
-//                 {/* card */}
-
-//                 <div className="relative h-full p-5 sm:p-6 md:p-8 border border-slate-800 bg-slate-900 rounded-2xl hover:border-slate-700">
-
-//                     {/* icon */}
-//                     <div className="flex flex-row justify-between">
-
-//                     <div className="w-12 h-12 rounded-xl bg-gradient-to-br from-purple-400 to-pink-400 flex items-center justify-center mb-4 text-white">
-//                         <Laptop className='w-6 h-6'/>
-//                     </div>
-
-//                     <div className="flex gap-2">
-
-//                         <a href="https://color-palette-generator-five-sigma.vercel.app/" target="_blank" rel="noopener noreferrer" className="w-10 h-10 border border-slate-700 bg-slate-800 flex items-center justify-center rounded-xl mb-4 hover:border-blue-500 hover:rotate-5 hover:scale-110 transition-all duration-300">
-//                             <ExternalLink className='w-4 h-4 text-white'/>
-//                         </a>
-
-//                         <a href="https://github.com/kushB645/-Color-Palette-Generator" target="_blank" rel="noopener noreferrer" className="w-10 h-10 border border-slate-700 bg-slate-800 flex items-center justify-center rounded-xl mb-4 hover:border-blue-500 hover:rotate-5 hover:scale-110 transition-all duration-300">
-//                             <GitBranch className='w-4 h-4 text-white'/>
-//                         </a>
-
-//                     </div>
-
-//                     </div>
-
-//                     <h3 className='text-white text-base sm:text-lg md:text-xl mb-3 group-hover:bg-gradient-to-r group-hover:from-blue-400 
-//                     group-hover:to-purple-400 group-hover:bg-clip-text group-hover:text-transparent'>Color Palette Generator</h3>
-
-//                     <p className='text-slate-400 mb-12 leading-relaxed tracking-wider text-left'>Built interactive web app using HTML, CSS, JavaScript. Implemented DOM manipulation, event handling, and clipboard features with a responsive UI using Flexbox.</p>
-
-//                     <div className="flex flex-wrap gap-2">
-
-//                         <div className="text-slate-300 text-sm border border-slate-700 bg-slate-800/50 px-3 py-1 rounded-full">HTML5</div>
-
-//                         <div className="text-slate-300 text-sm border border-slate-700 bg-slate-800/50 px-3 py-1 rounded-full">CSS3</div>
-
-//                         <div className="text-slate-300 text-sm border border-slate-700 bg-slate-800/50 px-3 py-1 rounded-full">JavaScript</div>
-
-//                         <div className="text-slate-300 text-sm border border-slate-700 bg-slate-800/50 px-3 py-1 rounded-full">Flexbox</div>                       
-//                     </div>
-//                 </div>
-//             </motion.div>
-
-//             </motion.div>
 
 //             {/* githuvb */}
 
