@@ -1,21 +1,39 @@
 @import "tailwindcss";
 
-@custom-variant dark (&:where(.dark, .dark *));
-
-
-body{
-  font-family: 'Inter', sans-serif;
+:root {
+  font-family: "Avenir Next", Avenir, "Segoe UI", sans-serif;
+  color: #24261f;
+  background: #f2efe6;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
 }
 
-.dark{
-  color-scheme: dark;
+* {
+  box-sizing: border-box;
 }
 
-html{
+html {
   scroll-behavior: smooth;
 }
 
-section {
-  scroll-margin-top: 80px;
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
 }
 
+button,
+input,
+textarea {
+  font: inherit;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+::selection {
+  color: #f8f4e9;
+  background: #26352b;
+}
